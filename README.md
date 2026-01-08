@@ -1,4 +1,4 @@
-🌿 Identification of Medicinal Plants Using Deep Learning
+🌿 Identification of Medicinal Plants using Machine Learning Algorithms
 
 📌 Project Description
 
