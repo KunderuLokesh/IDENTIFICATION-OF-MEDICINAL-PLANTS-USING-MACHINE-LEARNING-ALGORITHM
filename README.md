@@ -1,0 +1,2 @@
+# IDENTIFICATION-OF-MEDICINAL-PLANTS-USING-MACHINE-LEARNING-ALGORITHM
+Identification of Medicinal Plants is a deep learning–based image classification project that identifies medicinal plants from leaf images. Using a Convolutional Neural Network (CNN), the system extracts features such as shape, texture, and color to accurately classify plant species, supporting applications in agriculture and healthcare.
